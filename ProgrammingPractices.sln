@@ -203,6 +203,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NElemanYazdirmak", "OneDArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumElemanlarSifir", "OneDArrays\TumElemanlarSifir\TumElemanlarSifir.csproj", "{1170ABDA-E814-4F15-AC82-CB8E70C0571B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziElemanToplami", "OneDArrays\DiziElemanToplami\DiziElemanToplami.csproj", "{E60BD07F-493E-434B-A5F5-9F943EC1BB34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -601,6 +603,10 @@ Global
 		{1170ABDA-E814-4F15-AC82-CB8E70C0571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1170ABDA-E814-4F15-AC82-CB8E70C0571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1170ABDA-E814-4F15-AC82-CB8E70C0571B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60BD07F-493E-434B-A5F5-9F943EC1BB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60BD07F-493E-434B-A5F5-9F943EC1BB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60BD07F-493E-434B-A5F5-9F943EC1BB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60BD07F-493E-434B-A5F5-9F943EC1BB34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -704,6 +710,7 @@ Global
 		{33EC851F-CC75-45FA-B902-65A1396CA383} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{FD1E0026-BE1F-4B45-8EEF-AAE4CF53E958} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{1170ABDA-E814-4F15-AC82-CB8E70C0571B} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{E60BD07F-493E-434B-A5F5-9F943EC1BB34} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
