@@ -8,7 +8,7 @@ int[] array = new int[n];
 double aritmeticAvr = 0, result = 0;
 for (int i = 0; i < n; i++)
 {
-    Console.Write($"{i+1}. Eleman: ");
+    Console.Write($"{i + 1}. Eleman: ");
     // dizi elemanlarini al
     array[i] = int.Parse(Console.ReadLine());
     // ortalama ve girilen degerleri topla
@@ -18,11 +18,11 @@ for (int i = 0; i < n; i++)
 aritmeticAvr /= n;
 // toplam hesaplama
 for (int i = 0; i < n; i++)
-    result += Math.Pow((array[i] - aritmeticAvr),2);
+    result += Math.Pow((array[i] - aritmeticAvr), 2);
 
 // varyans hesaplama
 double varience = result / n;
 // standart sapma hesaplama
-double standardDeviation = Math.Pow(varience,0.5);
+double standardDeviation = Math.Pow(varience, 0.5);
 
 Console.WriteLine($"Standard Deviation = {standardDeviation:F3} \nVarience = {varience:F3}");
