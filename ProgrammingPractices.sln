@@ -225,6 +225,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polinom", "OneDArrays\Polin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HornerYontemi", "OneDArrays\HornerYontemi\HornerYontemi.csproj", "{E6FC8111-D930-4B3B-8C1D-3A8F4112A994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konvulsuyon", "OneDArrays\Konvulsuyon\Konvulsuyon.csproj", "{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -667,6 +669,10 @@ Global
 		{E6FC8111-D930-4B3B-8C1D-3A8F4112A994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6FC8111-D930-4B3B-8C1D-3A8F4112A994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6FC8111-D930-4B3B-8C1D-3A8F4112A994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -781,6 +787,7 @@ Global
 		{438DC597-52CE-4BA6-B2A5-875ED5D4DF40} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{501FB719-E6ED-400A-8B6A-71A03AB51172} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{E6FC8111-D930-4B3B-8C1D-3A8F4112A994} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
