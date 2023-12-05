@@ -4,6 +4,7 @@ int n = int.Parse(Console.ReadLine());
 // n elemanli diziler
 int[] array = new int[n];
 int[] array2 = new int[n];
+// sonuc degiskeni
 int result = 0;
 for (int i = 0; i < n; i++)
 {
