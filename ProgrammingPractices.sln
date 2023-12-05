@@ -7,9 +7,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OneDArrays", "OneDArrays", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicApps", "BasicApps", "{C7764A63-72A9-4542-B95D-603E79173C3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aKupAKare", "BasicApps\aKupAKare\aKupAKare.csproj", "{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51D05C1E-B8F2-42BE-B5C5-1FACA6425C16} = {C7764A63-72A9-4542-B95D-603E79173C3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}

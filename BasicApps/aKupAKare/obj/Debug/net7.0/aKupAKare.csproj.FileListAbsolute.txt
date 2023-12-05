@@ -1,0 +1,15 @@
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\bin\Debug\net7.0\aKupAKare.exe
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\bin\Debug\net7.0\aKupAKare.deps.json
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\bin\Debug\net7.0\aKupAKare.runtimeconfig.json
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\bin\Debug\net7.0\aKupAKare.dll
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\bin\Debug\net7.0\aKupAKare.pdb
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.AssemblyInfo.cs
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.dll
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\refint\aKupAKare.dll
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.pdb
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\aKupAKare.genruntimeconfig.cache
+C:\Users\berka\Desktop\programmingPractices\BasicApps\aKupAKare\obj\Debug\net7.0\ref\aKupAKare.dll
