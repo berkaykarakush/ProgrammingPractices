@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziElemanlariniTersAtama2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizilerinSkalerCarpimi", "OneDArrays\DizilerinSkalerCarpimi\DizilerinSkalerCarpimi.csproj", "{2183570F-5D41-4EA9-A37B-62D4457126D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziOrtalamasi", "OneDArrays\DiziOrtalamasi\DiziOrtalamasi.csproj", "{E68C76DE-D431-448B-A88B-60353A5A7E2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -637,6 +639,10 @@ Global
 		{2183570F-5D41-4EA9-A37B-62D4457126D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2183570F-5D41-4EA9-A37B-62D4457126D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2183570F-5D41-4EA9-A37B-62D4457126D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68C76DE-D431-448B-A88B-60353A5A7E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68C76DE-D431-448B-A88B-60353A5A7E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68C76DE-D431-448B-A88B-60353A5A7E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68C76DE-D431-448B-A88B-60353A5A7E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -746,6 +752,7 @@ Global
 		{CC7C3FDB-38F9-4DCE-B114-B013D3825048} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{794E59D7-0722-4139-B7DA-684A6E5E1732} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{2183570F-5D41-4EA9-A37B-62D4457126D2} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{E68C76DE-D431-448B-A88B-60353A5A7E2F} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
