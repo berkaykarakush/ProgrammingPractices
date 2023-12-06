@@ -245,6 +245,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayidanKelimeye", "OneDArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayininHaneleri", "OneDArrays\SayininHaneleri\SayininHaneleri.csproj", "{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiBasamakliSayidanKelimeye", "OneDArrays\IkiBasamakliSayidanKelimeye\IkiBasamakliSayidanKelimeye.csproj", "{6F384744-46B0-452D-B82A-DB58FA98A818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -727,6 +729,10 @@ Global
 		{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F384744-46B0-452D-B82A-DB58FA98A818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F384744-46B0-452D-B82A-DB58FA98A818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F384744-46B0-452D-B82A-DB58FA98A818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F384744-46B0-452D-B82A-DB58FA98A818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -851,6 +857,7 @@ Global
 		{B951459B-055F-42A5-9402-31168C955348} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{9833B08E-CDA7-4B9D-BE17-D6FCDCE6D0AD} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{1E8173EA-56F0-444D-9CDC-8969DDDA9A25} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{6F384744-46B0-452D-B82A-DB58FA98A818} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
