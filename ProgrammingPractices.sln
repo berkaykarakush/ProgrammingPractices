@@ -229,6 +229,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konvulsuyon", "OneDArrays\K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonksiyonOrtalama", "OneDArrays\FonksiyonOrtalama\FonksiyonOrtalama.csproj", "{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaksimumMinimumProblemi", "OneDArrays\MaksimumMinimumProblemi\MaksimumMinimumProblemi.csproj", "{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -679,6 +681,10 @@ Global
 		{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -795,6 +801,7 @@ Global
 		{E6FC8111-D930-4B3B-8C1D-3A8F4112A994} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{DF90C4E8-669D-48AB-A108-90E6AEFCA95F} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
