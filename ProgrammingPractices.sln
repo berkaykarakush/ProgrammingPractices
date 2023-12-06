@@ -257,6 +257,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeceSayisi", "OneDArrays\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerstenYazdirma", "OneDArrays\TerstenYazdirma\TerstenYazdirma.csproj", "{5161CD54-C7AE-4627-B2DB-60174120FFF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerstenBuyukKucukYazdirma", "OneDArrays\TerstenBuyukKucukYazdirma\TerstenBuyukKucukYazdirma.csproj", "{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -763,6 +765,10 @@ Global
 		{5161CD54-C7AE-4627-B2DB-60174120FFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5161CD54-C7AE-4627-B2DB-60174120FFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5161CD54-C7AE-4627-B2DB-60174120FFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -893,6 +899,7 @@ Global
 		{0019EA11-4206-4F50-8437-31253842C73D} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{5161CD54-C7AE-4627-B2DB-60174120FFF8} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{4E372B5B-0B96-413D-8798-DFCAA3D65EAD} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
