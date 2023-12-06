@@ -253,6 +253,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasilanTusunTuru", "OneDArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarfSayisi", "OneDArrays\HarfSayisi\HarfSayisi.csproj", "{0019EA11-4206-4F50-8437-31253842C73D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeceSayisi", "OneDArrays\HeceSayisi\HeceSayisi.csproj", "{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,10 @@ Global
 		{0019EA11-4206-4F50-8437-31253842C73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0019EA11-4206-4F50-8437-31253842C73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0019EA11-4206-4F50-8437-31253842C73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -879,6 +885,7 @@ Global
 		{4063DA02-0FBF-41CC-887C-F1FFE56B358C} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{CC2F7E11-EB1B-4108-BB02-2FD6C64A4DD5} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{0019EA11-4206-4F50-8437-31253842C73D} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{3DFC8E0F-F7E9-4301-A330-6A7A50953D93} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
