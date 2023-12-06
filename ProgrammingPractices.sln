@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslemYapanDiziler", "OneDAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaireNoktalari", "OneDArrays\DaireNoktalari\DaireNoktalari.csproj", "{D56974D9-E483-42F8-8849-13529BBFD9E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartezyenKoordinat", "OneDArrays\KartezyenKoordinat\KartezyenKoordinat.csproj", "{FC889206-0F03-43E9-8BAC-5F15C377B659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -697,6 +699,10 @@ Global
 		{D56974D9-E483-42F8-8849-13529BBFD9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D56974D9-E483-42F8-8849-13529BBFD9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D56974D9-E483-42F8-8849-13529BBFD9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC889206-0F03-43E9-8BAC-5F15C377B659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC889206-0F03-43E9-8BAC-5F15C377B659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC889206-0F03-43E9-8BAC-5F15C377B659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC889206-0F03-43E9-8BAC-5F15C377B659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -816,6 +822,7 @@ Global
 		{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{1E96EF29-6D10-433E-9595-71AA7319ED53} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{D56974D9-E483-42F8-8849-13529BBFD9E8} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{FC889206-0F03-43E9-8BAC-5F15C377B659} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
