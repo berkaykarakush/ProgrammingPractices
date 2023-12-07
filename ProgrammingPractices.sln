@@ -287,6 +287,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiAcikIkiKapali", "OneDArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KucultBirBasindanBirSonundanAl", "OneDArrays\KucultBirBasindanBirSonundanAl\KucultBirBasindanBirSonundanAl.csproj", "{9CB80767-30F7-41B7-8E5A-FCE6F3201AB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonHarfleriDegistirme", "OneDArrays\SonHarfleriDegistirme\SonHarfleriDegistirme.csproj", "{CBB2E177-ED35-4F47-99B8-9AB01FDF7492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -853,6 +855,10 @@ Global
 		{9CB80767-30F7-41B7-8E5A-FCE6F3201AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CB80767-30F7-41B7-8E5A-FCE6F3201AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CB80767-30F7-41B7-8E5A-FCE6F3201AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB2E177-ED35-4F47-99B8-9AB01FDF7492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB2E177-ED35-4F47-99B8-9AB01FDF7492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB2E177-ED35-4F47-99B8-9AB01FDF7492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB2E177-ED35-4F47-99B8-9AB01FDF7492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -998,6 +1004,7 @@ Global
 		{C115FC4B-3846-4C5F-B7DD-4189D4023DE4} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{9CB80767-30F7-41B7-8E5A-FCE6F3201AB3} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{CBB2E177-ED35-4F47-99B8-9AB01FDF7492} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
