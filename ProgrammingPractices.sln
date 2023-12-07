@@ -299,6 +299,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiTahmin", "OneDArrays\Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiyiBasamaklarinaAyirmak", "OneDArrays\SayiyiBasamaklarinaAyirmak\SayiyiBasamaklarinaAyirmak.csproj", "{23BDA24E-DE1A-4213-8582-B75B24061EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiraKontrolu", "OneDArrays\SiraKontrolu\SiraKontrolu.csproj", "{94A108E9-1D88-470D-9FC5-F4C29031CA1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -889,6 +891,10 @@ Global
 		{23BDA24E-DE1A-4213-8582-B75B24061EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BDA24E-DE1A-4213-8582-B75B24061EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BDA24E-DE1A-4213-8582-B75B24061EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A108E9-1D88-470D-9FC5-F4C29031CA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A108E9-1D88-470D-9FC5-F4C29031CA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A108E9-1D88-470D-9FC5-F4C29031CA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A108E9-1D88-470D-9FC5-F4C29031CA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1040,6 +1046,7 @@ Global
 		{CA9623EC-DD3B-42B3-83E6-F17ACA067ABD} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{0E5FC0A1-247A-497D-9379-B8530A996411} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{23BDA24E-DE1A-4213-8582-B75B24061EF4} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{94A108E9-1D88-470D-9FC5-F4C29031CA1B} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
