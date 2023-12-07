@@ -269,6 +269,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirme", "OneDA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurkceHarfTemizleme", "OneDArrays\TurkceHarfTemizleme\TurkceHarfTemizleme.csproj", "{A87D01D9-B57C-44D5-B0BD-929AD8725702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YabanciHarfSayaci", "OneDArrays\YabanciHarfSayaci\YabanciHarfSayaci.csproj", "{0598EC3C-1300-4458-AAFA-14C08E073D2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -799,6 +801,10 @@ Global
 		{A87D01D9-B57C-44D5-B0BD-929AD8725702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87D01D9-B57C-44D5-B0BD-929AD8725702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87D01D9-B57C-44D5-B0BD-929AD8725702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0598EC3C-1300-4458-AAFA-14C08E073D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0598EC3C-1300-4458-AAFA-14C08E073D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0598EC3C-1300-4458-AAFA-14C08E073D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0598EC3C-1300-4458-AAFA-14C08E073D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -935,6 +941,7 @@ Global
 		{7210E3AE-B13A-43D0-B109-3A3C07EB7137} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{FD945274-C887-4A65-9EFA-BFD7FF999D37} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{A87D01D9-B57C-44D5-B0BD-929AD8725702} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{0598EC3C-1300-4458-AAFA-14C08E073D2A} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
