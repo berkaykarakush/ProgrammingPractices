@@ -227,43 +227,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HornerYontemi", "OneDArrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konvulsuyon", "OneDArrays\Konvulsuyon\Konvulsuyon.csproj", "{5C6FE7C4-C1A8-45AB-9A16-043A57C1A36A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonksiyonOrtalama", "OneDArrays\FonksiyonOrtalama\FonksiyonOrtalama.csproj", "{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FonksiyonOrtalama", "OneDArrays\FonksiyonOrtalama\FonksiyonOrtalama.csproj", "{DF90C4E8-669D-48AB-A108-90E6AEFCA95F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaksimumMinimumProblemi", "OneDArrays\MaksimumMinimumProblemi\MaksimumMinimumProblemi.csproj", "{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaksimumMinimumProblemi", "OneDArrays\MaksimumMinimumProblemi\MaksimumMinimumProblemi.csproj", "{2510FD9A-DA83-4AA1-BFD6-8A4F3726289E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslemYapanDiziler", "OneDArrays\IslemYapanDiziler\IslemYapanDiziler.csproj", "{1E96EF29-6D10-433E-9595-71AA7319ED53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IslemYapanDiziler", "OneDArrays\IslemYapanDiziler\IslemYapanDiziler.csproj", "{1E96EF29-6D10-433E-9595-71AA7319ED53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaireNoktalari", "OneDArrays\DaireNoktalari\DaireNoktalari.csproj", "{D56974D9-E483-42F8-8849-13529BBFD9E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaireNoktalari", "OneDArrays\DaireNoktalari\DaireNoktalari.csproj", "{D56974D9-E483-42F8-8849-13529BBFD9E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartezyenKoordinat", "OneDArrays\KartezyenKoordinat\KartezyenKoordinat.csproj", "{FC889206-0F03-43E9-8BAC-5F15C377B659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KartezyenKoordinat", "OneDArrays\KartezyenKoordinat\KartezyenKoordinat.csproj", "{FC889206-0F03-43E9-8BAC-5F15C377B659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElemanAyrimi", "OneDArrays\ElemanAyrimi\ElemanAyrimi.csproj", "{7E820699-8EAA-4BD1-8D99-EDE1C6936B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElemanAyrimi", "OneDArrays\ElemanAyrimi\ElemanAyrimi.csproj", "{7E820699-8EAA-4BD1-8D99-EDE1C6936B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotOrtalamasi", "OneDArrays\NotOrtalamasi\NotOrtalamasi.csproj", "{B951459B-055F-42A5-9402-31168C955348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotOrtalamasi", "OneDArrays\NotOrtalamasi\NotOrtalamasi.csproj", "{B951459B-055F-42A5-9402-31168C955348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayidanKelimeye", "OneDArrays\SayidanKelimeye\SayidanKelimeye.csproj", "{9833B08E-CDA7-4B9D-BE17-D6FCDCE6D0AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayidanKelimeye", "OneDArrays\SayidanKelimeye\SayidanKelimeye.csproj", "{9833B08E-CDA7-4B9D-BE17-D6FCDCE6D0AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayininHaneleri", "OneDArrays\SayininHaneleri\SayininHaneleri.csproj", "{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayininHaneleri", "OneDArrays\SayininHaneleri\SayininHaneleri.csproj", "{1E8173EA-56F0-444D-9CDC-8969DDDA9A25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiBasamakliSayidanKelimeye", "OneDArrays\IkiBasamakliSayidanKelimeye\IkiBasamakliSayidanKelimeye.csproj", "{6F384744-46B0-452D-B82A-DB58FA98A818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IkiBasamakliSayidanKelimeye", "OneDArrays\IkiBasamakliSayidanKelimeye\IkiBasamakliSayidanKelimeye.csproj", "{6F384744-46B0-452D-B82A-DB58FA98A818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayidanKelimeye2", "OneDArrays\SayidanKelimeye2\SayidanKelimeye2.csproj", "{4063DA02-0FBF-41CC-887C-F1FFE56B358C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayidanKelimeye2", "OneDArrays\SayidanKelimeye2\SayidanKelimeye2.csproj", "{4063DA02-0FBF-41CC-887C-F1FFE56B358C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasilanTusunTuru", "OneDArrays\BasilanTusunTuru\BasilanTusunTuru.csproj", "{CC2F7E11-EB1B-4108-BB02-2FD6C64A4DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasilanTusunTuru", "OneDArrays\BasilanTusunTuru\BasilanTusunTuru.csproj", "{CC2F7E11-EB1B-4108-BB02-2FD6C64A4DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarfSayisi", "OneDArrays\HarfSayisi\HarfSayisi.csproj", "{0019EA11-4206-4F50-8437-31253842C73D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarfSayisi", "OneDArrays\HarfSayisi\HarfSayisi.csproj", "{0019EA11-4206-4F50-8437-31253842C73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeceSayisi", "OneDArrays\HeceSayisi\HeceSayisi.csproj", "{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeceSayisi", "OneDArrays\HeceSayisi\HeceSayisi.csproj", "{3DFC8E0F-F7E9-4301-A330-6A7A50953D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerstenYazdirma", "OneDArrays\TerstenYazdirma\TerstenYazdirma.csproj", "{5161CD54-C7AE-4627-B2DB-60174120FFF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerstenYazdirma", "OneDArrays\TerstenYazdirma\TerstenYazdirma.csproj", "{5161CD54-C7AE-4627-B2DB-60174120FFF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerstenBuyukKucukYazdirma", "OneDArrays\TerstenBuyukKucukYazdirma\TerstenBuyukKucukYazdirma.csproj", "{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerstenBuyukKucukYazdirma", "OneDArrays\TerstenBuyukKucukYazdirma\TerstenBuyukKucukYazdirma.csproj", "{4E372B5B-0B96-413D-8798-DFCAA3D65EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastgeleBuyukHarf", "OneDArrays\RastgeleBuyukHarf\RastgeleBuyukHarf.csproj", "{FBE20FD7-D86D-49EC-A6C2-B0C83A654AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RastgeleBuyukHarf", "OneDArrays\RastgeleBuyukHarf\RastgeleBuyukHarf.csproj", "{FBE20FD7-D86D-49EC-A6C2-B0C83A654AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyukseKucukKucukseBuyuk", "OneDArrays\BuyukseKucukKucukseBuyuk\BuyukseKucukKucukseBuyuk.csproj", "{F37F9079-AA89-4617-996B-33CAB1811611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyukseKucukKucukseBuyuk", "OneDArrays\BuyukseKucukKucukseBuyuk\BuyukseKucukKucukseBuyuk.csproj", "{F37F9079-AA89-4617-996B-33CAB1811611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiBuyukIkiKucuk", "OneDArrays\IkiBuyukIkiKucuk\IkiBuyukIkiKucuk.csproj", "{7210E3AE-B13A-43D0-B109-3A3C07EB7137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IkiBuyukIkiKucuk", "OneDArrays\IkiBuyukIkiKucuk\IkiBuyukIkiKucuk.csproj", "{7210E3AE-B13A-43D0-B109-3A3C07EB7137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirme", "OneDArrays\KarakterDegistirme\KarakterDegistirme.csproj", "{FD945274-C887-4A65-9EFA-BFD7FF999D37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -787,6 +789,10 @@ Global
 		{7210E3AE-B13A-43D0-B109-3A3C07EB7137}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7210E3AE-B13A-43D0-B109-3A3C07EB7137}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7210E3AE-B13A-43D0-B109-3A3C07EB7137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD945274-C887-4A65-9EFA-BFD7FF999D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD945274-C887-4A65-9EFA-BFD7FF999D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD945274-C887-4A65-9EFA-BFD7FF999D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD945274-C887-4A65-9EFA-BFD7FF999D37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -921,6 +927,7 @@ Global
 		{FBE20FD7-D86D-49EC-A6C2-B0C83A654AC7} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{F37F9079-AA89-4617-996B-33CAB1811611} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{7210E3AE-B13A-43D0-B109-3A3C07EB7137} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{FD945274-C887-4A65-9EFA-BFD7FF999D37} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
