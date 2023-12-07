@@ -283,6 +283,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirerekSifrele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifredenCumleye", "OneDArrays\SifredenCumleye\SifredenCumleye.csproj", "{C115FC4B-3846-4C5F-B7DD-4189D4023DE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiAcikIkiKapali", "OneDArrays\IkiAcikIkiKapali\IkiAcikIkiKapali.csproj", "{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -841,6 +843,10 @@ Global
 		{C115FC4B-3846-4C5F-B7DD-4189D4023DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C115FC4B-3846-4C5F-B7DD-4189D4023DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C115FC4B-3846-4C5F-B7DD-4189D4023DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -984,6 +990,7 @@ Global
 		{10F36168-4857-48AC-BB45-96ED3A8D9A4C} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{242E6750-A9F0-4F13-964A-9C545A5380B2} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{C115FC4B-3846-4C5F-B7DD-4189D4023DE4} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{A6E2B18C-CAD6-4ECA-A20C-6422A3D42CC8} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
