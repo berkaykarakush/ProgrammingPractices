@@ -279,6 +279,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarfSirasi", "OneDArrays\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeleriSifreleme", "OneDArrays\KelimeleriSifreleme\KelimeleriSifreleme.csproj", "{10F36168-4857-48AC-BB45-96ED3A8D9A4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirerekSifreleme", "OneDArrays\KarakterDegistirerekSifreleme\KarakterDegistirerekSifreleme.csproj", "{242E6750-A9F0-4F13-964A-9C545A5380B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -829,6 +831,10 @@ Global
 		{10F36168-4857-48AC-BB45-96ED3A8D9A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F36168-4857-48AC-BB45-96ED3A8D9A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F36168-4857-48AC-BB45-96ED3A8D9A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242E6750-A9F0-4F13-964A-9C545A5380B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242E6750-A9F0-4F13-964A-9C545A5380B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242E6750-A9F0-4F13-964A-9C545A5380B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242E6750-A9F0-4F13-964A-9C545A5380B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -970,6 +976,7 @@ Global
 		{701084B1-B244-4EF8-8388-510B86426CD0} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{5C726EAF-282B-403F-8E59-6CD727CFBB76} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{10F36168-4857-48AC-BB45-96ED3A8D9A4C} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{242E6750-A9F0-4F13-964A-9C545A5380B2} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
