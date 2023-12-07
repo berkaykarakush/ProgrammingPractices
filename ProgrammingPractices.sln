@@ -273,6 +273,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YabanciHarfSayaci", "OneDAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SesliHarfBulma", "OneDArrays\SesliHarfBulma\SesliHarfBulma.csproj", "{1B9FBBA6-F88A-4445-8DA9-1A2C598AB1DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessizSesliKelimeOlusturma", "OneDArrays\SessizSesliKelimeOlusturma\SessizSesliKelimeOlusturma.csproj", "{701084B1-B244-4EF8-8388-510B86426CD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -811,6 +813,10 @@ Global
 		{1B9FBBA6-F88A-4445-8DA9-1A2C598AB1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9FBBA6-F88A-4445-8DA9-1A2C598AB1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9FBBA6-F88A-4445-8DA9-1A2C598AB1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701084B1-B244-4EF8-8388-510B86426CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701084B1-B244-4EF8-8388-510B86426CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701084B1-B244-4EF8-8388-510B86426CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701084B1-B244-4EF8-8388-510B86426CD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -949,6 +955,7 @@ Global
 		{A87D01D9-B57C-44D5-B0BD-929AD8725702} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{0598EC3C-1300-4458-AAFA-14C08E073D2A} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 		{1B9FBBA6-F88A-4445-8DA9-1A2C598AB1DD} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
+		{701084B1-B244-4EF8-8388-510B86426CD0} = {B79BB9A1-A300-44FD-BD24-641F799177BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
