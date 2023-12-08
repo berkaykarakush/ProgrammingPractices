@@ -345,6 +345,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstUcgenMatris", "TwoDArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltUcgenMatris", "TwoDArrays\AltUcgenMatris\AltUcgenMatris.csproj", "{C6BAC391-278B-4114-9E61-34BED3BC5CDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosegenMatris", "TwoDArrays\KosegenMatris\KosegenMatris.csproj", "{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1023,6 +1025,10 @@ Global
 		{C6BAC391-278B-4114-9E61-34BED3BC5CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6BAC391-278B-4114-9E61-34BED3BC5CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6BAC391-278B-4114-9E61-34BED3BC5CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1196,6 +1202,7 @@ Global
 		{952E1513-0D30-49B8-9B0E-DCCDEA8FA292} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{C1337E76-23E4-438B-AA5E-BE1044F0F4C1} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{C6BAC391-278B-4114-9E61-34BED3BC5CDD} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
