@@ -327,6 +327,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisElemanlarToplami", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisTranspoze", "TwoDArrays\MatrisTranspoze\MatrisTranspoze.csproj", "{D5F91964-7334-4E29-8F9A-38449A0C091C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirimMatrisOlusturma", "TwoDArrays\BirimMatrisOlusturma\BirimMatrisOlusturma.csproj", "{F62F3B9D-8922-4E0E-A528-CAB470CABADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -969,6 +971,10 @@ Global
 		{D5F91964-7334-4E29-8F9A-38449A0C091C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5F91964-7334-4E29-8F9A-38449A0C091C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5F91964-7334-4E29-8F9A-38449A0C091C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1133,6 +1139,7 @@ Global
 		{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{A63F8212-D4FC-49AD-926F-66B395A30C3C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{D5F91964-7334-4E29-8F9A-38449A0C091C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{F62F3B9D-8922-4E0E-A528-CAB470CABADB} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
