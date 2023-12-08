@@ -337,6 +337,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaKosegenAltiToplama", "Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YedekKosegenUstuToplami", "TwoDArrays\YedekKosegenUstuToplami\YedekKosegenUstuToplami.csproj", "{9E39D9B5-D49C-459E-B410-207AF854970A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YedekKosegenAltiToplami", "TwoDArrays\YedekKosegenAltiToplami\YedekKosegenAltiToplami.csproj", "{51F63A38-EB64-447F-98BA-FC3C1C72EA17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -999,6 +1001,10 @@ Global
 		{9E39D9B5-D49C-459E-B410-207AF854970A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E39D9B5-D49C-459E-B410-207AF854970A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E39D9B5-D49C-459E-B410-207AF854970A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F63A38-EB64-447F-98BA-FC3C1C72EA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F63A38-EB64-447F-98BA-FC3C1C72EA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F63A38-EB64-447F-98BA-FC3C1C72EA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F63A38-EB64-447F-98BA-FC3C1C72EA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1168,6 +1174,7 @@ Global
 		{78508A41-BB93-4B6D-8638-0752BD424475} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{9E39D9B5-D49C-459E-B410-207AF854970A} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{51F63A38-EB64-447F-98BA-FC3C1C72EA17} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
