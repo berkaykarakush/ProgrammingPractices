@@ -329,6 +329,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisTranspoze", "TwoDArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirimMatrisOlusturma", "TwoDArrays\BirimMatrisOlusturma\BirimMatrisOlusturma.csproj", "{F62F3B9D-8922-4E0E-A528-CAB470CABADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisCarpimi", "TwoDArrays\MatrisCarpimi\MatrisCarpimi.csproj", "{D83942EA-1775-470C-933D-F967958BC2FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -975,6 +977,10 @@ Global
 		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62F3B9D-8922-4E0E-A528-CAB470CABADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83942EA-1775-470C-933D-F967958BC2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83942EA-1775-470C-933D-F967958BC2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83942EA-1775-470C-933D-F967958BC2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83942EA-1775-470C-933D-F967958BC2FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1140,6 +1146,7 @@ Global
 		{A63F8212-D4FC-49AD-926F-66B395A30C3C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{D5F91964-7334-4E29-8F9A-38449A0C091C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{F62F3B9D-8922-4E0E-A528-CAB470CABADB} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{D83942EA-1775-470C-933D-F967958BC2FE} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
