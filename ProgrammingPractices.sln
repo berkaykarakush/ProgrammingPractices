@@ -323,6 +323,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YedekKosegenToplami", "TwoD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatirdakiElemanToplami", "TwoDArrays\SatirdakiElemanToplami\SatirdakiElemanToplami.csproj", "{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisElemanlarToplami", "TwoDArrays\MatrisElemanlarToplami\MatrisElemanlarToplami.csproj", "{A63F8212-D4FC-49AD-926F-66B395A30C3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -957,6 +959,10 @@ Global
 		{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63F8212-D4FC-49AD-926F-66B395A30C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63F8212-D4FC-49AD-926F-66B395A30C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63F8212-D4FC-49AD-926F-66B395A30C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63F8212-D4FC-49AD-926F-66B395A30C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1119,6 +1125,7 @@ Global
 		{0D38418F-84D7-4D9A-8557-CA1D3EBA325E} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{4098F3A7-C37D-47A6-8A3D-613377002423} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{AD75FB71-66C9-4CD2-A8A8-98C92CDB3AD7} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{A63F8212-D4FC-49AD-926F-66B395A30C3C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
