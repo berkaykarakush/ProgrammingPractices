@@ -333,6 +333,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisCarpimi", "TwoDArrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaKosegenUstuToplama", "TwoDArrays\AnaKosegenUstuToplama\AnaKosegenUstuToplama.csproj", "{78508A41-BB93-4B6D-8638-0752BD424475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaKosegenAltiToplama", "TwoDArrays\AnaKosegenAltiToplama\AnaKosegenAltiToplama.csproj", "{BCE71C4C-1D2B-4566-A162-717AE04A2DCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -987,6 +989,10 @@ Global
 		{78508A41-BB93-4B6D-8638-0752BD424475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78508A41-BB93-4B6D-8638-0752BD424475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78508A41-BB93-4B6D-8638-0752BD424475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1154,6 +1160,7 @@ Global
 		{F62F3B9D-8922-4E0E-A528-CAB470CABADB} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{D83942EA-1775-470C-933D-F967958BC2FE} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{78508A41-BB93-4B6D-8638-0752BD424475} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{BCE71C4C-1D2B-4566-A162-717AE04A2DCE} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
