@@ -351,6 +351,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SatirElemanlariToplami", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SutunElemanlariCarpimi", "TwoDArrays\SutunElemanlariCarpimi\SutunElemanlariCarpimi.csproj", "{22F22EDC-4E63-4B21-9371-792F8DA10142}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisIndirgeme", "TwoDArrays\MatrisIndirgeme\MatrisIndirgeme.csproj", "{2D255FC0-11D5-4926-B3E3-084F347514A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1041,6 +1043,10 @@ Global
 		{22F22EDC-4E63-4B21-9371-792F8DA10142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F22EDC-4E63-4B21-9371-792F8DA10142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F22EDC-4E63-4B21-9371-792F8DA10142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D255FC0-11D5-4926-B3E3-084F347514A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D255FC0-11D5-4926-B3E3-084F347514A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D255FC0-11D5-4926-B3E3-084F347514A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D255FC0-11D5-4926-B3E3-084F347514A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1217,6 +1223,7 @@ Global
 		{13491C2F-A7D8-4DB6-ADD6-3772FF1C5E1C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{6F53866D-3FF2-4B35-B265-7AC68E932456} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{22F22EDC-4E63-4B21-9371-792F8DA10142} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{2D255FC0-11D5-4926-B3E3-084F347514A3} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
