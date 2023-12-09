@@ -1,6 +1,4 @@
 ﻿// girdi
-using System.Runtime.InteropServices;
-
 Console.Write("N x N matrisi icin N degeri:");
 int n = int.Parse(Console.ReadLine());
 // n x n matris tanimla
