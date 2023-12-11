@@ -373,6 +373,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisDeterminanti", "TwoDA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarrusYontemi", "TwoDArrays\SarrusYontemi\SarrusYontemi.csproj", "{87701189-454B-4D68-8FED-184107251EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxNDeterminant", "TwoDArrays\NxNDeterminant\NxNDeterminant.csproj", "{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1107,6 +1109,10 @@ Global
 		{87701189-454B-4D68-8FED-184107251EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87701189-454B-4D68-8FED-184107251EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87701189-454B-4D68-8FED-184107251EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1294,6 +1300,7 @@ Global
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{59437231-C2D5-488B-B362-3EC2064DEB86} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{87701189-454B-4D68-8FED-184107251EF7} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{CF05C2E2-FFF2-47F7-9D94-7E7E9A98BC89} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
