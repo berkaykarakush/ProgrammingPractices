@@ -395,6 +395,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarfleriHareketEttirme", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkranKoruyu", "TwoDArrays\EkranKoruyu\EkranKoruyu.csproj", "{596F05F6-59F2-4FB5-8EEC-63D88F0B432F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkranKoruyucu", "TwoDArrays\EkranKoruyucu\EkranKoruyucu.csproj", "{EEC0D623-DE29-4056-85EA-4A3527B090D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1173,6 +1175,10 @@ Global
 		{596F05F6-59F2-4FB5-8EEC-63D88F0B432F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596F05F6-59F2-4FB5-8EEC-63D88F0B432F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596F05F6-59F2-4FB5-8EEC-63D88F0B432F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC0D623-DE29-4056-85EA-4A3527B090D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC0D623-DE29-4056-85EA-4A3527B090D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC0D623-DE29-4056-85EA-4A3527B090D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC0D623-DE29-4056-85EA-4A3527B090D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1371,6 +1377,7 @@ Global
 		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{F9781535-F081-45EA-BC07-7008144D51B6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{596F05F6-59F2-4FB5-8EEC-63D88F0B432F} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{EEC0D623-DE29-4056-85EA-4A3527B090D6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
