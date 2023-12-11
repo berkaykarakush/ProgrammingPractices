@@ -349,21 +349,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KosegenMatris", "TwoDArrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SatirElemanlariToplami", "TwoDArrays\SatirElemanlariToplami\SatirElemanlariToplami.csproj", "{6F53866D-3FF2-4B35-B265-7AC68E932456}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SutunElemanlariCarpimi", "TwoDArrays\SutunElemanlariCarpimi\SutunElemanlariCarpimi.csproj", "{22F22EDC-4E63-4B21-9371-792F8DA10142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SutunElemanlariCarpimi", "TwoDArrays\SutunElemanlariCarpimi\SutunElemanlariCarpimi.csproj", "{22F22EDC-4E63-4B21-9371-792F8DA10142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisIndirgeme", "TwoDArrays\MatrisIndirgeme\MatrisIndirgeme.csproj", "{2D255FC0-11D5-4926-B3E3-084F347514A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrisIndirgeme", "TwoDArrays\MatrisIndirgeme\MatrisIndirgeme.csproj", "{2D255FC0-11D5-4926-B3E3-084F347514A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimetrikMAtris", "TwoDArrays\SimetrikMAtris\SimetrikMAtris.csproj", "{396C9DFC-7933-4E84-B149-5F82954EF076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimetrikMAtris", "TwoDArrays\SimetrikMAtris\SimetrikMAtris.csproj", "{396C9DFC-7933-4E84-B149-5F82954EF076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnKucukEnBuyukBulmaMatris", "TwoDArrays\EnKucukEnBuyukBulmaMatris\EnKucukEnBuyukBulmaMatris.csproj", "{E9AB6E34-2E21-413E-B79C-17274203D6AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnKucukEnBuyukBulmaMatris", "TwoDArrays\EnKucukEnBuyukBulmaMatris\EnKucukEnBuyukBulmaMatris.csproj", "{E9AB6E34-2E21-413E-B79C-17274203D6AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsVeToplamdanYeniMatris", "TwoDArrays\UsVeToplamdanYeniMatris\UsVeToplamdanYeniMatris.csproj", "{C06C19B2-CC7B-4F0F-B261-2533B98B3369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsVeToplamdanYeniMatris", "TwoDArrays\UsVeToplamdanYeniMatris\UsVeToplamdanYeniMatris.csproj", "{C06C19B2-CC7B-4F0F-B261-2533B98B3369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElemanSiralama", "TwoDArrays\ElemanSiralama\ElemanSiralama.csproj", "{CAA3A0A5-98E8-4760-8E7C-0BCF49776531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElemanSiralama", "TwoDArrays\ElemanSiralama\ElemanSiralama.csproj", "{CAA3A0A5-98E8-4760-8E7C-0BCF49776531}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersIslemleri", "TwoDArrays\DersIslemleri\DersIslemleri.csproj", "{698C15AB-1786-4D0D-83DB-914E82DA8CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DersIslemleri", "TwoDArrays\DersIslemleri\DersIslemleri.csproj", "{698C15AB-1786-4D0D-83DB-914E82DA8CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SirketIslemleri", "TwoDArrays\SirketIslemleri\SirketIslemleri.csproj", "{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SirketIslemleri", "TwoDArrays\SirketIslemleri\SirketIslemleri.csproj", "{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisKatsayiHesaplama", "TwoDArrays\MatrisKatsayiHesaplama\MatrisKatsayiHesaplama.csproj", "{2F40A365-D84B-4E32-A5E6-BD19865974BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1083,6 +1085,10 @@ Global
 		{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F40A365-D84B-4E32-A5E6-BD19865974BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F40A365-D84B-4E32-A5E6-BD19865974BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F40A365-D84B-4E32-A5E6-BD19865974BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F40A365-D84B-4E32-A5E6-BD19865974BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1266,6 +1272,7 @@ Global
 		{CAA3A0A5-98E8-4760-8E7C-0BCF49776531} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{698C15AB-1786-4D0D-83DB-914E82DA8CCC} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{2F40A365-D84B-4E32-A5E6-BD19865974BA} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
