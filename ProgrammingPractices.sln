@@ -371,6 +371,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YedekKosegeParalelSanalDege
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisDeterminanti", "TwoDArrays\MatrisDeterminanti\MatrisDeterminanti.csproj", "{59437231-C2D5-488B-B362-3EC2064DEB86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarrusYontemi", "TwoDArrays\SarrusYontemi\SarrusYontemi.csproj", "{87701189-454B-4D68-8FED-184107251EF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1101,6 +1103,10 @@ Global
 		{59437231-C2D5-488B-B362-3EC2064DEB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59437231-C2D5-488B-B362-3EC2064DEB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59437231-C2D5-488B-B362-3EC2064DEB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87701189-454B-4D68-8FED-184107251EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87701189-454B-4D68-8FED-184107251EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87701189-454B-4D68-8FED-184107251EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87701189-454B-4D68-8FED-184107251EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1287,6 +1293,7 @@ Global
 		{2F40A365-D84B-4E32-A5E6-BD19865974BA} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{59437231-C2D5-488B-B362-3EC2064DEB86} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{87701189-454B-4D68-8FED-184107251EF7} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
