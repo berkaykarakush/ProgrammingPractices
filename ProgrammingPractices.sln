@@ -389,6 +389,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DikUcgenKelime", "TwoDArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaziHareketEttirme", "TwoDArrays\YaziHareketEttirme\YaziHareketEttirme.csproj", "{6FB2C12D-37AC-4703-AAFE-31BF5088A96A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaziyiSoldanSagaHareketEttirme", "TwoDArrays\YaziyiSoldanSagaHareketEttirme\YaziyiSoldanSagaHareketEttirme.csproj", "{40AB014C-1C88-48E4-82F7-AC503DDD2D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarfleriHareketEttirme", "TwoDArrays\HarfleriHareketEttirme\HarfleriHareketEttirme.csproj", "{F9781535-F081-45EA-BC07-7008144D51B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1155,6 +1159,14 @@ Global
 		{6FB2C12D-37AC-4703-AAFE-31BF5088A96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FB2C12D-37AC-4703-AAFE-31BF5088A96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FB2C12D-37AC-4703-AAFE-31BF5088A96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9781535-F081-45EA-BC07-7008144D51B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9781535-F081-45EA-BC07-7008144D51B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9781535-F081-45EA-BC07-7008144D51B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9781535-F081-45EA-BC07-7008144D51B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1350,6 +1362,8 @@ Global
 		{C2FD5FF4-96B6-490E-8F3B-10C7BCD78110} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{E26A8BA9-B841-447F-93F7-2443B302FB2F} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{6FB2C12D-37AC-4703-AAFE-31BF5088A96A} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{40AB014C-1C88-48E4-82F7-AC503DDD2D1C} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{F9781535-F081-45EA-BC07-7008144D51B6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
