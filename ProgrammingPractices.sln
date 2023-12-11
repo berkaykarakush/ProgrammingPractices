@@ -399,6 +399,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkranKoruyucu", "TwoDArrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryImage", "TwoDArrays\BinaryImage\BinaryImage.csproj", "{F7402C19-04FB-4DB0-AE78-71BE62B54BA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GriResminTersi", "TwoDArrays\GriResminTersi\GriResminTersi.csproj", "{A38BC28A-ADDC-4534-954C-ED030C0C95F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1185,6 +1187,10 @@ Global
 		{F7402C19-04FB-4DB0-AE78-71BE62B54BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7402C19-04FB-4DB0-AE78-71BE62B54BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7402C19-04FB-4DB0-AE78-71BE62B54BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38BC28A-ADDC-4534-954C-ED030C0C95F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38BC28A-ADDC-4534-954C-ED030C0C95F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38BC28A-ADDC-4534-954C-ED030C0C95F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38BC28A-ADDC-4534-954C-ED030C0C95F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1385,6 +1391,7 @@ Global
 		{596F05F6-59F2-4FB5-8EEC-63D88F0B432F} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{EEC0D623-DE29-4056-85EA-4A3527B090D6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{F7402C19-04FB-4DB0-AE78-71BE62B54BA2} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{A38BC28A-ADDC-4534-954C-ED030C0C95F1} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
