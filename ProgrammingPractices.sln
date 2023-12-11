@@ -369,6 +369,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisKatsayiHesaplama", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YedekKosegeParalelSanalDegerlerToplami", "TwoDArrays\YedekKosegeParalelSanalDegerlerToplami\YedekKosegeParalelSanalDegerlerToplami.csproj", "{BD10106E-6EE6-4A18-BDC4-2827F7166602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisDeterminanti", "TwoDArrays\MatrisDeterminanti\MatrisDeterminanti.csproj", "{59437231-C2D5-488B-B362-3EC2064DEB86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1095,6 +1097,10 @@ Global
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59437231-C2D5-488B-B362-3EC2064DEB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59437231-C2D5-488B-B362-3EC2064DEB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59437231-C2D5-488B-B362-3EC2064DEB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59437231-C2D5-488B-B362-3EC2064DEB86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1280,6 +1286,7 @@ Global
 		{0BF39660-30CA-49C3-A7D7-4D55AC4F05B5} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{2F40A365-D84B-4E32-A5E6-BD19865974BA} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{BD10106E-6EE6-4A18-BDC4-2827F7166602} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{59437231-C2D5-488B-B362-3EC2064DEB86} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
