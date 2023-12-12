@@ -407,6 +407,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstUsteBinenResimler", "Two
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimParlakliginiDegistirme", "TwoDArrays\ResimParlakliginiDegistirme\ResimParlakliginiDegistirme.csproj", "{CAD95372-0071-4CEB-990B-159240AF6C7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiResimArasindakiFark", "TwoDArrays\IkiResimArasindakiFark\IkiResimArasindakiFark.csproj", "{FE93A58E-7D43-415E-9C28-22578147F861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1209,6 +1211,10 @@ Global
 		{CAD95372-0071-4CEB-990B-159240AF6C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAD95372-0071-4CEB-990B-159240AF6C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAD95372-0071-4CEB-990B-159240AF6C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE93A58E-7D43-415E-9C28-22578147F861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE93A58E-7D43-415E-9C28-22578147F861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE93A58E-7D43-415E-9C28-22578147F861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE93A58E-7D43-415E-9C28-22578147F861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1413,6 +1419,7 @@ Global
 		{79755D67-7879-4F49-9F31-C3F9B7474AD7} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{DE974731-7669-4DA9-9DD6-FEC8FD472C0B} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{CAD95372-0071-4CEB-990B-159240AF6C7E} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{FE93A58E-7D43-415E-9C28-22578147F861} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
