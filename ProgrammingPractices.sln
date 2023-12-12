@@ -421,6 +421,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtomatikKontrast", "TwoDArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrastIyilestirme", "TwoDArrays\KontrastIyilestirme\KontrastIyilestirme.csproj", "{077B583F-94A5-4D2A-A24F-BA846A24B880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimdeGamaIyilestirme", "TwoDArrays\ResimdeGamaIyilestirme\ResimdeGamaIyilestirme.csproj", "{79CD4199-E47D-402D-9817-1BDF4AE1049B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1251,6 +1253,10 @@ Global
 		{077B583F-94A5-4D2A-A24F-BA846A24B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{077B583F-94A5-4D2A-A24F-BA846A24B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{077B583F-94A5-4D2A-A24F-BA846A24B880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1462,6 +1468,7 @@ Global
 		{662C972A-1267-4226-A900-42086C10E476} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{631F58AA-0539-423C-9A1B-1645BDEC7697} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{077B583F-94A5-4D2A-A24F-BA846A24B880} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{79CD4199-E47D-402D-9817-1BDF4AE1049B} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
