@@ -417,6 +417,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuEsikleme", "TwoDArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResminHistogrami", "TwoDArrays\ResminHistogrami\ResminHistogrami.csproj", "{662C972A-1267-4226-A900-42086C10E476}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtomatikKontrast", "TwoDArrays\OtomatikKontrast\OtomatikKontrast.csproj", "{631F58AA-0539-423C-9A1B-1645BDEC7697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1239,6 +1241,10 @@ Global
 		{662C972A-1267-4226-A900-42086C10E476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{662C972A-1267-4226-A900-42086C10E476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{662C972A-1267-4226-A900-42086C10E476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631F58AA-0539-423C-9A1B-1645BDEC7697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631F58AA-0539-423C-9A1B-1645BDEC7697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631F58AA-0539-423C-9A1B-1645BDEC7697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631F58AA-0539-423C-9A1B-1645BDEC7697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1448,6 +1454,7 @@ Global
 		{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{662C972A-1267-4226-A900-42086C10E476} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{631F58AA-0539-423C-9A1B-1645BDEC7697} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
