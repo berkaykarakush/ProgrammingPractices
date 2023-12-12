@@ -413,6 +413,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimUzerindeMaskeleme", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaPlanBastirma", "TwoDArrays\ArkaPlanBastirma\ArkaPlanBastirma.csproj", "{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuEsikleme", "TwoDArrays\GoruntuEsikleme\GoruntuEsikleme.csproj", "{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1227,6 +1229,10 @@ Global
 		{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1434,6 +1440,7 @@ Global
 		{FE93A58E-7D43-415E-9C28-22578147F861} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{C39D055D-AD7D-4608-8F1F-59B81B659449} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{ADCA7507-0177-4FBC-B448-02BCA5BBCE09} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
