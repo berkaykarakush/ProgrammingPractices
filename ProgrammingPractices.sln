@@ -427,6 +427,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselKopyalama", "TwoDArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuyuOrtalama", "TwoDArrays\GoruntuyuOrtalama\GoruntuyuOrtalama.csproj", "{99738FF6-BCE0-41A7-862D-2137CEEC36F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselinSaatYonuTersiTetaAcisiDondurulmesi", "TwoDArrays\PikselinSaatYonuTersiTetaAcisiDondurulmesi\PikselinSaatYonuTersiTetaAcisiDondurulmesi.csproj", "{BB435F91-9F3B-4F83-ABF9-C56E94B91694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1269,6 +1271,10 @@ Global
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1483,6 +1489,7 @@ Global
 		{79CD4199-E47D-402D-9817-1BDF4AE1049B} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{BB435F91-9F3B-4F83-ABF9-C56E94B91694} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
