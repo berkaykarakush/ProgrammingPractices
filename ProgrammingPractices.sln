@@ -435,6 +435,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KareIciDaire", "GraphicApps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PencereGorunumu", "GraphicApps\PencereGorunumu\PencereGorunumu.csproj", "{738D711D-6396-415E-A690-267297F62F68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcIceDaireler", "GraphicApps\IcIceDaireler\IcIceDaireler.csproj", "{89470972-0050-41DC-8BD8-0A9BBEA6BA1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1289,6 +1291,10 @@ Global
 		{738D711D-6396-415E-A690-267297F62F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{738D711D-6396-415E-A690-267297F62F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{738D711D-6396-415E-A690-267297F62F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1506,6 +1512,7 @@ Global
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{5569F142-34FD-4551-B5EF-D7335049C36C} = {1D873534-0127-41C0-B68A-70954011DA33}
 		{738D711D-6396-415E-A690-267297F62F68} = {1D873534-0127-41C0-B68A-70954011DA33}
+		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C} = {1D873534-0127-41C0-B68A-70954011DA33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
