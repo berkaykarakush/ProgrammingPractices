@@ -441,6 +441,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FonksiyonGrafigi", "Graphic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenlikModulasyonu", "GraphicApps\GenlikModulasyonu\GenlikModulasyonu.csproj", "{82D78C47-E305-4F77-B5DB-9827ACB8DD68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrekansModulasyonu", "GraphicApps\FrekansModulasyonu\FrekansModulasyonu.csproj", "{06554B7F-089F-49BC-9936-789AE66C095B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1307,6 +1309,10 @@ Global
 		{82D78C47-E305-4F77-B5DB-9827ACB8DD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D78C47-E305-4F77-B5DB-9827ACB8DD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D78C47-E305-4F77-B5DB-9827ACB8DD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06554B7F-089F-49BC-9936-789AE66C095B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06554B7F-089F-49BC-9936-789AE66C095B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06554B7F-089F-49BC-9936-789AE66C095B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06554B7F-089F-49BC-9936-789AE66C095B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1527,6 +1533,7 @@ Global
 		{89470972-0050-41DC-8BD8-0A9BBEA6BA1C} = {1D873534-0127-41C0-B68A-70954011DA33}
 		{51B84EB6-2362-4575-94C8-4DEB3F9EF9E7} = {1D873534-0127-41C0-B68A-70954011DA33}
 		{82D78C47-E305-4F77-B5DB-9827ACB8DD68} = {1D873534-0127-41C0-B68A-70954011DA33}
+		{06554B7F-089F-49BC-9936-789AE66C095B} = {1D873534-0127-41C0-B68A-70954011DA33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
