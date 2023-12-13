@@ -429,6 +429,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuyuOrtalama", "TwoDAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselinSaatYonuTersiTetaAcisiDondurulmesi", "TwoDArrays\PikselinSaatYonuTersiTetaAcisiDondurulmesi\PikselinSaatYonuTersiTetaAcisiDondurulmesi.csproj", "{BB435F91-9F3B-4F83-ABF9-C56E94B91694}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphicApps", "GraphicApps", "{1D873534-0127-41C0-B68A-70954011DA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KareIciDaire", "GraphicApps\KareIciDaire\KareIciDaire.csproj", "{5569F142-34FD-4551-B5EF-D7335049C36C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1275,6 +1279,10 @@ Global
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5569F142-34FD-4551-B5EF-D7335049C36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5569F142-34FD-4551-B5EF-D7335049C36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5569F142-34FD-4551-B5EF-D7335049C36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5569F142-34FD-4551-B5EF-D7335049C36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1490,6 +1498,7 @@ Global
 		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{5569F142-34FD-4551-B5EF-D7335049C36C} = {1D873534-0127-41C0-B68A-70954011DA33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
