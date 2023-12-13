@@ -403,25 +403,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GriResminTersi", "TwoDArray
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RenkliResminTersi", "TwoDArrays\RenkliResminTersi\RenkliResminTersi.csproj", "{79755D67-7879-4F49-9F31-C3F9B7474AD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstUsteBinenResimler", "TwoDArrays\UstUsteBinenResimler\UstUsteBinenResimler.csproj", "{DE974731-7669-4DA9-9DD6-FEC8FD472C0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UstUsteBinenResimler", "TwoDArrays\UstUsteBinenResimler\UstUsteBinenResimler.csproj", "{DE974731-7669-4DA9-9DD6-FEC8FD472C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimParlakliginiDegistirme", "TwoDArrays\ResimParlakliginiDegistirme\ResimParlakliginiDegistirme.csproj", "{CAD95372-0071-4CEB-990B-159240AF6C7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResimParlakliginiDegistirme", "TwoDArrays\ResimParlakliginiDegistirme\ResimParlakliginiDegistirme.csproj", "{CAD95372-0071-4CEB-990B-159240AF6C7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiResimArasindakiFark", "TwoDArrays\IkiResimArasindakiFark\IkiResimArasindakiFark.csproj", "{FE93A58E-7D43-415E-9C28-22578147F861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IkiResimArasindakiFark", "TwoDArrays\IkiResimArasindakiFark\IkiResimArasindakiFark.csproj", "{FE93A58E-7D43-415E-9C28-22578147F861}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimUzerindeMaskeleme", "TwoDArrays\ResimUzerindeMaskeleme\ResimUzerindeMaskeleme.csproj", "{C39D055D-AD7D-4608-8F1F-59B81B659449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResimUzerindeMaskeleme", "TwoDArrays\ResimUzerindeMaskeleme\ResimUzerindeMaskeleme.csproj", "{C39D055D-AD7D-4608-8F1F-59B81B659449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkaPlanBastirma", "TwoDArrays\ArkaPlanBastirma\ArkaPlanBastirma.csproj", "{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkaPlanBastirma", "TwoDArrays\ArkaPlanBastirma\ArkaPlanBastirma.csproj", "{D3ED88E2-2A1C-4A22-AE5F-EFFFC7669180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuEsikleme", "TwoDArrays\GoruntuEsikleme\GoruntuEsikleme.csproj", "{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoruntuEsikleme", "TwoDArrays\GoruntuEsikleme\GoruntuEsikleme.csproj", "{ADCA7507-0177-4FBC-B448-02BCA5BBCE09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResminHistogrami", "TwoDArrays\ResminHistogrami\ResminHistogrami.csproj", "{662C972A-1267-4226-A900-42086C10E476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResminHistogrami", "TwoDArrays\ResminHistogrami\ResminHistogrami.csproj", "{662C972A-1267-4226-A900-42086C10E476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtomatikKontrast", "TwoDArrays\OtomatikKontrast\OtomatikKontrast.csproj", "{631F58AA-0539-423C-9A1B-1645BDEC7697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtomatikKontrast", "TwoDArrays\OtomatikKontrast\OtomatikKontrast.csproj", "{631F58AA-0539-423C-9A1B-1645BDEC7697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrastIyilestirme", "TwoDArrays\KontrastIyilestirme\KontrastIyilestirme.csproj", "{077B583F-94A5-4D2A-A24F-BA846A24B880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KontrastIyilestirme", "TwoDArrays\KontrastIyilestirme\KontrastIyilestirme.csproj", "{077B583F-94A5-4D2A-A24F-BA846A24B880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResimdeGamaIyilestirme", "TwoDArrays\ResimdeGamaIyilestirme\ResimdeGamaIyilestirme.csproj", "{79CD4199-E47D-402D-9817-1BDF4AE1049B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResimdeGamaIyilestirme", "TwoDArrays\ResimdeGamaIyilestirme\ResimdeGamaIyilestirme.csproj", "{79CD4199-E47D-402D-9817-1BDF4AE1049B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselKopyalama", "TwoDArrays\PikselKopyalama\PikselKopyalama.csproj", "{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1257,6 +1259,10 @@ Global
 		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79CD4199-E47D-402D-9817-1BDF4AE1049B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1469,6 +1475,7 @@ Global
 		{631F58AA-0539-423C-9A1B-1645BDEC7697} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{077B583F-94A5-4D2A-A24F-BA846A24B880} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{79CD4199-E47D-402D-9817-1BDF4AE1049B} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
+		{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
