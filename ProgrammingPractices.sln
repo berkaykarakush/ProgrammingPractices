@@ -423,15 +423,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KontrastIyilestirme", "TwoD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResimdeGamaIyilestirme", "TwoDArrays\ResimdeGamaIyilestirme\ResimdeGamaIyilestirme.csproj", "{79CD4199-E47D-402D-9817-1BDF4AE1049B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselKopyalama", "TwoDArrays\PikselKopyalama\PikselKopyalama.csproj", "{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PikselKopyalama", "TwoDArrays\PikselKopyalama\PikselKopyalama.csproj", "{4A8CB82E-822B-4DE5-B763-3EA7F1EB10E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoruntuyuOrtalama", "TwoDArrays\GoruntuyuOrtalama\GoruntuyuOrtalama.csproj", "{99738FF6-BCE0-41A7-862D-2137CEEC36F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoruntuyuOrtalama", "TwoDArrays\GoruntuyuOrtalama\GoruntuyuOrtalama.csproj", "{99738FF6-BCE0-41A7-862D-2137CEEC36F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikselinSaatYonuTersiTetaAcisiDondurulmesi", "TwoDArrays\PikselinSaatYonuTersiTetaAcisiDondurulmesi\PikselinSaatYonuTersiTetaAcisiDondurulmesi.csproj", "{BB435F91-9F3B-4F83-ABF9-C56E94B91694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PikselinSaatYonuTersiTetaAcisiDondurulmesi", "TwoDArrays\PikselinSaatYonuTersiTetaAcisiDondurulmesi\PikselinSaatYonuTersiTetaAcisiDondurulmesi.csproj", "{BB435F91-9F3B-4F83-ABF9-C56E94B91694}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphicApps", "GraphicApps", "{1D873534-0127-41C0-B68A-70954011DA33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KareIciDaire", "GraphicApps\KareIciDaire\KareIciDaire.csproj", "{5569F142-34FD-4551-B5EF-D7335049C36C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KareIciDaire", "GraphicApps\KareIciDaire\KareIciDaire.csproj", "{5569F142-34FD-4551-B5EF-D7335049C36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PencereGorunumu", "GraphicApps\PencereGorunumu\PencereGorunumu.csproj", "{738D711D-6396-415E-A690-267297F62F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1283,6 +1285,10 @@ Global
 		{5569F142-34FD-4551-B5EF-D7335049C36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5569F142-34FD-4551-B5EF-D7335049C36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5569F142-34FD-4551-B5EF-D7335049C36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738D711D-6396-415E-A690-267297F62F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738D711D-6396-415E-A690-267297F62F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738D711D-6396-415E-A690-267297F62F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738D711D-6396-415E-A690-267297F62F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1499,6 +1505,7 @@ Global
 		{99738FF6-BCE0-41A7-862D-2137CEEC36F6} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{BB435F91-9F3B-4F83-ABF9-C56E94B91694} = {59E723B8-A0C0-49FB-B52C-995513E902A2}
 		{5569F142-34FD-4551-B5EF-D7335049C36C} = {1D873534-0127-41C0-B68A-70954011DA33}
+		{738D711D-6396-415E-A690-267297F62F68} = {1D873534-0127-41C0-B68A-70954011DA33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
