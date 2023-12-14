@@ -451,6 +451,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayitListeleme", "FileApps\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayitListeleme2", "FileApps\KayitListeleme2\KayitListeleme2.csproj", "{B456035C-CC7D-4FC2-AC52-93A324D392B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayitEkleme2", "FileApps\KayitEkleme2\KayitEkleme2.csproj", "{1A1403ED-73E4-47F4-B54C-85FAF4EAF898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1333,6 +1335,10 @@ Global
 		{B456035C-CC7D-4FC2-AC52-93A324D392B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B456035C-CC7D-4FC2-AC52-93A324D392B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B456035C-CC7D-4FC2-AC52-93A324D392B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1403ED-73E4-47F4-B54C-85FAF4EAF898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1403ED-73E4-47F4-B54C-85FAF4EAF898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1403ED-73E4-47F4-B54C-85FAF4EAF898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1403ED-73E4-47F4-B54C-85FAF4EAF898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1557,6 +1563,7 @@ Global
 		{A12BEA73-FAE6-49DD-8715-243C77106CD7} = {08D0CB8F-4BDF-46D0-A90F-60B6387186F8}
 		{E7F84416-1077-4F5F-81E0-92E4EB05610A} = {08D0CB8F-4BDF-46D0-A90F-60B6387186F8}
 		{B456035C-CC7D-4FC2-AC52-93A324D392B9} = {08D0CB8F-4BDF-46D0-A90F-60B6387186F8}
+		{1A1403ED-73E4-47F4-B54C-85FAF4EAF898} = {08D0CB8F-4BDF-46D0-A90F-60B6387186F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {549902B6-FC38-4EAC-B5DB-C7FFD3525504}
